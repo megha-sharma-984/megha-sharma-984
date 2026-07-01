@@ -1,13 +1,11 @@
-# Hi, I'm Megha Sharma 👋
+# Hi, I'm Megha Sharma
 
 - B.Tech Computer Science Engineering Student (2028)  
 - Ghaziabad, Uttar Pradesh, India
 
 ## About Me
 
-- Currently learning Java, Python, Data Structures & Algorithms, Backend Development, and AI/ML.
-- Interested in Software Engineering, Backend Development, and Artificial Intelligence.
-- Building projects to strengthen my problem-solving and development skills.
+Computer Science Engineering student passionate about software development, backend development, and AI/ML. Currently learning Java, Python, and Data Structures & Algorithms while building projects to strengthen my problem-solving and development skills.
 
 ## Tech Stack
 
@@ -24,15 +22,14 @@
 - GitHub
 - VS Code
 - Jupyter Notebook
-- Spyder
 
 ## Featured Projects
 
 ### Hackathon Management System
-Console-based Java application demonstrating Object-Oriented Programming concepts, team registration, project scoring, and winner declaration.
+Console-based Java application demonstrating Object-Oriented Programming (OOP), team registration, project scoring, team search, input validation, and automatic winner declaration.
 
 ### Jewellery Store Management System
-Python & MySQL application with user authentication and CRUD operations for managing jewellery inventory across multiple brands.
+Python and MySQL-based application featuring user authentication and CRUD operations for managing jewellery inventory across multiple brands.
 
 ## Connect with Me
 
